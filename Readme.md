@@ -1,5 +1,3 @@
 ![Consummer CLI](images/consummer.png)
 ![data](images/data.png)
 ![desilizer](images/desilizer.png)
-![graphe](images/graphe.png)
-![graphe2](images/graphe2.png)
